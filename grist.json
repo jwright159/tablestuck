@@ -2,7 +2,7 @@
   "build":{
     "pos":0,
     "spos":15,
-    "emoji":"715632438751002654",
+    "emoji":"702675056035233793",
     "effective":["build","build","build","build"],
     "ineffective":["build","build","build","build"],
     "rgb":[[11,181,255],[11,181,255],[0,146,214],[250,250,250],[0,0,0]]
@@ -12,7 +12,7 @@
     "spos":1,
     "effective":["amethyst","iron","cobalt","amber","artifact"],
     "ineffective":["garnet","chalk","shale","tar","zillium"],
-    "emoji":"715632438822567966",
+    "emoji":"702675180643942491",
     "rgb":[[24,255,53],[24,255,53],[9,236,30],[250,250,250],[0,0,0]]
   },
   "amethyst":{
@@ -20,7 +20,7 @@
     "spos":2,
     "effective":["garnet","marble","ruby","tar","artifact"],
     "ineffective":["uranium","iron","cobalt","caulk","zillium"],
-    "emoji":"715632438507864076",
+    "emoji":"702674987982651432",
     "rgb":[[140,0,173],[140,0,173],[117,0,220],[250,250,250],[0,0,0]]
   },
   "garnet":{
@@ -28,7 +28,7 @@
     "spos":3,
     "effective":["uranium","chalk","shale","caulk","artifact"],
     "ineffective":["amethyst","marble","ruby","amber","zillium"],
-    "emoji":"715632438864248872",
+    "emoji":"702675115141234811",
     "rgb":[[182,1,2],[182,1,2],[122,0,0],[250,250,250],[0,0,0]]
   },
   "iron":{
@@ -36,7 +36,7 @@
     "spos":4,
     "effective":["amethyst","marble","cobalt","amber","artifact"],
     "ineffective":["uranium","chalk","ruby","tar","zillium"],
-    "emoji":"715632438742745188",
+    "emoji":"702675125589246015",
     "rgb":[[187,187,187],[187,187,187],[175,175,175],[0,0,0],[0,0,0]]
   },
   "marble":{
@@ -44,7 +44,7 @@
     "spos":5,
     "effective":["garnet","chalk","shale","caulk","artifact"],
     "ineffective":["amethyst","iron","cobalt","amber","zillium"],
-    "emoji":"715632438717579395",
+    "emoji":"702675139753410570",
     "rgb":[[219,219,219],[218,75,203],[184,184,184],[0,0,0],[0,0,0]]
   },
   "chalk":{
@@ -52,7 +52,7 @@
     "spos":6,
     "effective":["uranium","iron","ruby","tar","artifact"],
     "ineffective":["garnet","marble","shale","caulk","zillium"],
-    "emoji":"715632438717448242",
+    "emoji":"702675088734158919",
     "rgb":[[228,228,228],[228,228,228],[187,187,187],[0,0,0],[0,0,0]]
   },
   "shale":{
@@ -60,7 +60,7 @@
     "spos":7,
     "effective":["uranium","chalk","cobalt","caulk","artifact"],
     "ineffective":["garnet","marble","ruby","amber","zillium"],
-    "emoji":"715632438822305822",
+    "emoji":"702675162394263653",
     "rgb":[[133,21,214],[133,21,214],[109,9,188],[250,250,250],[0,0,0]]
   },
   "cobalt":{
@@ -68,7 +68,7 @@
     "spos":8,
     "effective":["amethyst","marble","ruby","tar","artifact"],
     "ineffective":["uranium","iron","shale","caulk","zillium"],
-    "emoji":"715632438776430602",
+    "emoji":"702675098095714384",
     "rgb":[[13,87,222],[13,87,222],[0,73,208],[250,250,250],[0,0,0]]
   },
   "ruby":{
@@ -76,7 +76,7 @@
     "spos":9,
     "effective":["garnet","iron","shale","amber","artifact"],
     "ineffective":["amethyst","chalk","cobalt","tar","zillium"],
-    "emoji":"715632438742745198",
+    "emoji":"702675150469988373",
     "rgb":[[255,87,71],[255,87,71],[255,47,26],[250,250,250],[0,0,0]]
   },
   "caulk":{
@@ -84,7 +84,7 @@
     "spos":10,
     "effective":["amethyst","chalk","cobalt","amber","artifact"],
     "ineffective":["garnet","marble","shale","tar","zillium"],
-    "emoji":"715632438713253928",
+    "emoji":"702675077421858848",
     "rgb":[[126,126,126],[126,126,126],[103,103,103],[0,0,0],[0,0,0]]
   },
   "tar":{
@@ -92,7 +92,7 @@
     "spos":11,
     "effective":["uranium","iron","ruby","caulk","artifact"],
     "ineffective":["amethyst","chalk","cobalt","amber","zillium"],
-    "emoji":"715632438759653376",
+    "emoji":"702675172125311016",
     "rgb":[[1,1,1],[1,1,1],[98,98,98],[250,250,250],[98,98,98]]
   },
   "amber":{
@@ -100,7 +100,7 @@
     "spos":12,
     "effective":["garnet","marble","shale","tar","artifact"],
     "ineffective":["uranium","iron","ruby","caulk","zillium"],
-    "emoji":"715632438637887531",
+    "emoji":"702674972744613928",
     "rgb":[[236,211,0],[236,211,0],[255,233,49],[250,250,250],[0,0,0]]
   },
   "artifact":{
@@ -108,7 +108,7 @@
     "spos":0,
     "effective":["zillium","zillium","zillium","zillium"],
     "ineffective":["rainbow","rainbow","rainbow","rainbow","uranium","amethyst","garnet","iron","marble","chalk","shale","cobalt","ruby","caulk","tar","amber"],
-    "emoji":"715632438377971734",
+    "emoji":"702675002138427476",
     "rgb":[[77,203,254],[163,143,188],[23,46,238],[250,250,250],[0,0,0]]
   },
   "zillium":{
@@ -116,7 +116,7 @@
     "spos":14,
     "effective":["rainbow","rainbow","rainbow","rainbow","uranium","amethyst","garnet","iron","marble","chalk","shale","cobalt","ruby","caulk","tar","amber"],
     "ineffective":["artifact","artifact","artifact","artifact"],
-    "emoji":"715632438478504007",
+    "emoji":"702675189934325820",
     "rgb":[[254,119,254],[53,255,84],[50,166,251],[250,250,250],[0,0,0]]
   },
   "diamond":{
@@ -124,11 +124,11 @@
     "spos":13,
     "effective":["build","build","build","build"],
     "ineffective":["build","build","build","build"],
-    "emoji":"715632438725836880",
+    "emoji":"702675107042295838",
     "rgb":[[99,149,241],[192,209,248],[50,101,232],[250,250,250],[0,0,0]]
   },
   "rainbow":{
-    "emoji":"715632522662379631",
+    "emoji":"599354145773715469",
     "spos":16,
     "rgb":[[0,0,255],[255,0,0],[255,255,0],[0,255,0],[0,255,255]]
   }
